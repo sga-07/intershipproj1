@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Learning management system using django web framework
 
 ### I would love to see you contribute 👩‍💻👩‍💻, feel free to contribute and get awesome GitHub achievements :)
@@ -93,3 +94,7 @@ Last but not least, go to this address http://127.0.0.1:8000
 </div>
 
 ### Show your support by ⭐️ this project!
+=======
+# InternshipProject1
+Internship 1 subject project - e learning website
+>>>>>>> 4ceceaed301bf9a28f7f1f54f87157876f42578b
